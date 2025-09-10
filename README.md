@@ -3,7 +3,7 @@
 
 I'm a dedicated and adaptable Information Technology student at Universitas Gadjah Mada. I am a responsible team player with high initiative and a keen eye for detail. I'm always excited to take on new challenges and experiences that can help me grow my skills in software development and creative problem-solving.
 
-🎓 Studying Information Technology at Universitas Gadjah Mada (2023 - Present)
+🎓 Studying Information Engineering at Universitas Gadjah Mada (2023 - Present)
 <br>
 🌱 I'm currently exploring new technologies and deepening my understanding of software development
 <br>
