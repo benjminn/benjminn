@@ -33,7 +33,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 
 ## 📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminsigit&theme=dracula" alt="Benjamin Sigit's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=benjminn&theme=dracula" alt="Benjamin Sigit's GitHub Streak" />
 </p>
 
 <p align="center">
