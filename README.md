@@ -1,4 +1,4 @@
-<img width="865" height="517" alt="image" src="https://github.com/user-attachments/assets/92204fda-bbfa-453d-a13e-74b3951886f0" /># Hi there 👋, I'm Benjamin Sigit
+# Hi there 👋, I'm Benjamin Sigit
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=35&pause=1000&center=true&vCenter=true&width=1000&lines=Information+Technology+Student+at+UGM;Creative+and+Detail-Oriented+Developer;Passionate+about+Photography+%26+Videography)](https://git.io/typing-svg)
 
