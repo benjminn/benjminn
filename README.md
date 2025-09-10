@@ -34,11 +34,11 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 ## 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=benjaminsigit&show_icons=true&theme=dracula&rank_icon=github" alt="Benjamin Sigit's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=benjminn&show_icons=true&theme=dracula&rank_icon=github" alt="Benjamin Sigit's GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminsigit&layout=compact&theme=dracula" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjminn&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ## 📫 Get In Touch
