@@ -13,7 +13,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 ## 🛠️ My Skills
 
 ### Programming & Technical
-<p align="center">
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
@@ -23,7 +23,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 </p>
 
 ### Creative & Design
-<p align="center">
+<p align="left">
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinciresolve" width="40" height="40"/> </a>
@@ -32,18 +32,20 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 </p>
 
 ## 📊 My GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=benjminn&theme=dracula" alt="Benjamin Sigit's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=benjaminsigit&theme=dracula" alt="Benjamin Sigit's GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=benjminn&show_icons=true&theme=dracula&rank_icon=github" alt="Benjamin Sigit's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=benjaminsigit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Benjamin Sigit's GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjminn&layout=compact&theme=dracula" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=benjaminsigit&theme=dracula&hide_border=true" alt="Benjamin Sigit's Activity Graph" />
 </p>
 
 ## 📫 Get In Touch
 
 📧 Email: benjamin.sigit1@gmail.com
+LinkedIn: [[https://www.linkedin.com/in/your-profile](https://linkedin.com/in/benjamin-sigit-a04916291)]
