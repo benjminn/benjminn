@@ -4,7 +4,9 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 🎓 Studying Information Technology at Universitas Gadjah Mada (2023 - Present)
 🌱 I'm currently exploring new technologies and deepening my understanding of software development
 📍 Based in Yogyakarta, Indonesia
+
 ## 🛠️ My Skills
+
 ### Programming & Technical
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -14,6 +16,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 </p>
+
 ### Creative & Design
 <p align="center">
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
@@ -22,6 +25,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 <img src="https://img.icons8.com/ios-filled/50/000000/photo-camera.png" alt="photography" width="40" height="40"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/video-camera.png" alt="videography" width="40" height="40"/>
 </p>
+
 ## 📊 My GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=benjminn&theme=dracula" alt="Benjamin Sigit's GitHub Streak" />
@@ -32,5 +36,6 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjminn&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
+
 ## 📫 Get In Touch
 📧 Email: benjamin.sigit1@gmail.com
