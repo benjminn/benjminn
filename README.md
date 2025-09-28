@@ -63,7 +63,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjminn&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
-## 📈 GitHub Metrics
+## 📈 GitHub Metrics 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/benjminn/benjminn/main/github-metrics.svg" alt="GitHub Metrics" />
