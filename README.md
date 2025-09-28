@@ -81,4 +81,12 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
 
 ## 📫 Get In Touch
 
-📧 Email: <a href="mailto:benjamin.sigit1@gmail.com">benjamin.sigit1@gmail.com</a>
+<p align="center">
+  <a href="mailto:benjamin.sigit1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-benjamin.sigit1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <br><br>
+  <a href="https://github.com/benjminn">
+    <img src="https://img.shields.io/badge/GitHub-benjminn-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
