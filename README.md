@@ -21,14 +21,6 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://supabase.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
   </a>
@@ -87,29 +79,6 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
   </picture>
 </div>
 
-
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **Ticket Booking System (TiketLaut)**
-- 🌱 I'm currently learning **C#, ASP.NET Core, and Advanced Database Management**
-- 👯 I'm looking to collaborate on **Open Source Projects and Web Development**
-- 💬 Ask me about **C++, JavaScript, Database Design, and UI/UX Design**
-- ⚡ Fun fact: **I love combining technical skills with creative design!**
-
-## 🌟 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benjminn&bg_color=282a36&color=bd93f9&line=50fa7b&point=ff79c6&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 ## 📫 Get In Touch
 
-<p align="center">
-  <a href="mailto:benjamin.sigit1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-benjamin.sigit1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br><br>
-  <a href="https://github.com/benjminn">
-    <img src="https://img.shields.io/badge/GitHub-benjminn-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+📧 Email: <a href="mailto:benjamin.sigit1@gmail.com">benjamin.sigit1@gmail.com</a>
