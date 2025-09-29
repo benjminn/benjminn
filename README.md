@@ -69,7 +69,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
   <img src="https://raw.githubusercontent.com/benjminn/benjminn/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
-## 🐍 Watch my contributions get eaten by a snake!
+## 🐍 Ular-ular apa yang hijau
 
 <div align="center">
   <picture>
