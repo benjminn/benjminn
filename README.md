@@ -69,7 +69,7 @@ I'm a dedicated and adaptable Information Technology student at Universitas Gadj
   <img src="https://raw.githubusercontent.com/benjminn/benjminn/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
-## 🐍 Ular-ular apa yang hijau
+## 🐍 ini uler
 
 <div align="center">
   <picture>
